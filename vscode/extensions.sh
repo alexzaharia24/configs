@@ -1,0 +1,11 @@
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension k--kato.intellij-idea-keybindings
+code --install-extension ms-python.python
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.cpptools
+code --install-extension naumovs.color-highlight
+code --install-extension PKief.material-icon-theme
+code --install-extension sissel.shopify-liquid
+code --install-extension techer.open-in-browser
+code --install-extension Tyriar.lorem-ipsum
+code --install-extension yzhang.markdown-all-in-one

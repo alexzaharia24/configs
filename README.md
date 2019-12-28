@@ -1,2 +1,2 @@
-# configs
-Config files for stuff
+# Configs
+Config files for whatnot.
